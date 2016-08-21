@@ -15,7 +15,9 @@ public class SomeClass {
 	}
 	
 	public void upcomingEvents(){
-		System.out.println("Upcoming Events -Please join!");
+                System.out.println("Upcoming Events1");
+                System.out.println("Upcoming Events2");
+		System.out.println("Upcoming Events");
 		System.out.println("Party at Jane's house tomorrow");
 	}
 	
